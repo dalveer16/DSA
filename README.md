@@ -1,59 +1,14 @@
-# Daily LeetCode Challenge
+# 🚀 Daily DSA Practice
 
-This repository contains solutions to daily LeetCode challenges. Each day, a new problem is solved and committed to this repository.
+Welcome to my Daily DSA (Data Structures and Algorithms) Practice repository! 
+Here, I solve DSA problems regularly on platforms like LeetCode to hone my problem-solving skills and stay consistent in my learning journey.
 
-## Getting Started
+## 📁 Repository
 
-To get started with the repository, clone it to your local machine using:
+This repository contains solutions to daily DSA challenges. Each day, I solve a new problem and commit the solution here.
 
-```
-git clone https://github.com/dalveer16/daily-leetcode.git
-```
+## 🚀 Why Daily Practice?
 
-### Prerequisites
-
-- Install [Git](https://git-scm.com/) on your machine.
-- Have a working knowledge of C++ programming language.
-
-### Usage
-
-1. Navigate to the cloned repository:
-
-```
-cd daily-leetcode
-```
-
-2. Open the solution file for the latest challenge:
-
-```
-code solution.cpp
-```
-
-3. Write your solution in the provided file.
-
-4. Compile and run your solution using a C++ compiler:
-
-```
-g++ -o solution solution.cpp
-./solution
-```
-
-5. Test your solution with sample test cases.
-
-6. Commit your solution to the repository:
-
-```
-git add solution.cpp
-git commit -m "Solved the daily challenge"
-git push origin main
-```
-
-### Contributing
-
-Contributions are welcome! 
-If you'd like to contribute a solution or suggest improvements, please fork the repository and create a pull request.
-
-### Acknowledgements
-
-- LeetCode for providing the daily challenges.
-- Contributors to this repository.
+Daily practice is key to mastering DSA. 
+It helps me stay disciplined, improves my coding skills, and keeps me motivated in my learning process. 
+It's not just a routine; it's a hobby that I enjoy and find rewarding.
