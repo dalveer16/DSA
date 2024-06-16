@@ -1,7 +1,6 @@
 # 🚀 Daily DSA Practice
 
-Welcome to my Daily DSA (Data Structures and Algorithms) Practice repository! 
-Here, I solve DSA problems regularly on platforms like LeetCode to hone my problem-solving skills and stay consistent in my learning journey.
+Welcome to my 100 Days of DSA (Data Structures and Algorithms) Challenge repository! For the next 100 days, I will solve DSA problems regularly on platforms like LeetCode to hone my problem-solving skills and stay consistent in my learning journey.
 
 ## 📁 Repository
 
